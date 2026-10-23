@@ -418,7 +418,7 @@
     {
       "name": "product-design-harness",
       "description": "Use when a product direction, feature, workflow, experiment, launch, feedback signal, automation, or scale decision needs judgment before execution or the next iteration.",
-      "source": "https://github.com/cis2042/ux3-product-design-harness/tree/35ccbd575103b85f73608ecf359d2832c132c682/skills/product-design-harness",
+      "source": "https://github.com/cis2042/ux3-product-design-harness/tree/v0.2.0/skills/product-design-harness",
       "vendor": "cis2042",
       "license": "MIT",
       "tags": [
@@ -435,8 +435,8 @@
       "homepage": "https://cis2042.github.io/ux3-product-design-harness/",
       "_source": {
         "url": "https://github.com/cis2042/ux3-product-design-harness",
-        "ref": "35ccbd575103b85f73608ecf359d2832c132c682",
-        "fetchedAt": "2026-10-23T02:25:31.016Z"
+        "ref": "v0.2.0",
+        "fetchedAt": "2026-10-23T06:41:18.064Z"
       }
     },
     {

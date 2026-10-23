@@ -56,7 +56,7 @@
 
 skills:
   - url: https://github.com/cis2042/ux3-product-design-harness
-    ref: 35ccbd575103b85f73608ecf359d2832c132c682
+    ref: v0.2.0
     path: skills/product-design-harness/SKILL.md
     vendor: cis2042
     license: MIT
